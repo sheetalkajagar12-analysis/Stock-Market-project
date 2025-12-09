@@ -55,5 +55,5 @@ Visual comparison of the stock’s high and low performance over the selected pe
 
 
 
-## 📁 Project Structure
+
 
