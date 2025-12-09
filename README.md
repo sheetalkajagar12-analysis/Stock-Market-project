@@ -53,7 +53,7 @@ Quick comparison of:
 ### ✅ 5. Monthly 52-Week High–Low Analysis
 Visual comparison of the stock’s high and low performance over the selected period.
 
----
+
 
 ## 📁 Project Structure
 
